@@ -21,3 +21,5 @@ plt.ylabel("Velocidad radial [km/s]")
 plt.title("Velocidad radial contra radio")
 plt.legend(loc=0)
 plt.savefig("modelo.png")
+
+
